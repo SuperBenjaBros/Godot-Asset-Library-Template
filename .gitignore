@@ -1,4 +1,4 @@
-# This Is So That GitHub Ignores Junk / Unnecessary Files
+# This Is So That GitHub Ignores Junk / Unnecessary Files So They Don't Take Up Space
 .godot/
 .import/
 export.cfg
