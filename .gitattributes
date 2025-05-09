@@ -1,4 +1,4 @@
-# To Only Download The "Addons" Folder
+# To Only Download The "Addons" Folder And Basic Text Configuration
 * text=auto eol=lf
 * export-ignore
 /addons !export-ignore
